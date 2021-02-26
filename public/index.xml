@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desenvolvimento LED Internet</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Desenvolvimento LED Internet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 25 Feb 2021 14:55:27 -0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bibliotecas</title>
+      <link>http://example.org/downloads/bibliotecas/</link>
+      <pubDate>Thu, 25 Feb 2021 14:55:27 -0300</pubDate>
+      
+      <guid>http://example.org/downloads/bibliotecas/</guid>
+      <description>Segue abaixo um lista de bibliotecas úteis requeridas pelas aplicações da LED Internet.
+JDA (Just do the App!):
+link
+Go-macro-go (sistema de macros em Golang):
+link</description>
+    </item>
+    
+    <item>
+      <title>Lead machine</title>
+      <link>http://example.org/documentacoes/lead-machine/</link>
+      <pubDate>Thu, 25 Feb 2021 14:55:27 -0300</pubDate>
+      
+      <guid>http://example.org/documentacoes/lead-machine/</guid>
+      <description>Igor Fagundes, LED Internet, 2021
+NOTA: A documentação deve ser lida integralmente, não somente por consulta, uma vez que, conceitos que já foram expostos tendem a não serem repetidos ao longo da documentação, logo, é recomendada a leitura integral.
+Este projeto consiste em um pacote que contém uma página para captar novos leads, e uma aplicação que deverá ser hospedada em um servidor para receber a solicitação da página e enviar os dados do lead captado por meio de uma mensagem para o Telegram.</description>
+    </item>
+    
+    <item>
+      <title>LED Services</title>
+      <link>http://example.org/documentacoes/led-services/</link>
+      <pubDate>Thu, 25 Feb 2021 14:55:27 -0300</pubDate>
+      
+      <guid>http://example.org/documentacoes/led-services/</guid>
+      <description>Igor Fagundes, LED Internet, 2021
+NOTA: A documentação deve ser lida integralmente, não somente por consulta, uma vez que, conceitos que já foram expostos tendem a não serem repetidos ao longo da documentação, logo, é recomendada a leitura integral.
+O intuito desta aplicação é gerenciar diversos sistemas e APIs que estão integradas à LED Internet. A ideia básica da aplicação é iterar sobre cada cliente do banco de dados e à partir desta iteração realizar operações diversas, como: mandar um email, inserir os dados do cliente em outro sistema.</description>
+    </item>
+    
+    <item>
+      <title>Repositórios</title>
+      <link>http://example.org/downloads/my-first-post/</link>
+      <pubDate>Thu, 25 Feb 2021 14:55:27 -0300</pubDate>
+      
+      <guid>http://example.org/downloads/my-first-post/</guid>
+      <description>Segue abaixo um lista com os links dos repositórios das aplicações desenvolvidas pelo time de desenvolvimento da LED Internet.
+Bla:
+ledinternet/backup-system</description>
+    </item>
+    
+    <item>
+      <title>Sistema de backups</title>
+      <link>http://example.org/documentacoes/backup-system/</link>
+      <pubDate>Thu, 25 Feb 2021 14:55:27 -0300</pubDate>
+      
+      <guid>http://example.org/documentacoes/backup-system/</guid>
+      <description>Igor Fagundes, LED Internet, 2021
+NOTA: A documentação deve ser lida integralmente, não somente por consulta, uma vez que, conceitos que já foram expostos tendem a não serem repetidos ao longo da documentação, logo, é recomendada a leitura integral.
+Um sistema que se baseia em: coletar backups, sejam em SSH, Telnet ou outros métodos de diversos tipos de dispositivos e, à partir da coleta dos mesmos, construir um arquivo .zip que pode ser exportado via Dropbox, FTP e armazenamento local.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Downloads on Desenvolvimento LED Internet</title>
+    <link>http://example.org/downloads/</link>
+    <description>Recent content in Downloads on Desenvolvimento LED Internet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 25 Feb 2021 14:55:27 -0300</lastBuildDate><atom:link href="http://example.org/downloads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bibliotecas</title>
+      <link>http://example.org/downloads/bibliotecas/</link>
+      <pubDate>Thu, 25 Feb 2021 14:55:27 -0300</pubDate>
+      
+      <guid>http://example.org/downloads/bibliotecas/</guid>
+      <description>Segue abaixo um lista de bibliotecas úteis requeridas pelas aplicações da LED Internet.
+JDA (Just do the App!):
+link
+Go-macro-go (sistema de macros em Golang):
+link</description>
+    </item>
+    
+    <item>
+      <title>Repositórios</title>
+      <link>http://example.org/downloads/my-first-post/</link>
+      <pubDate>Thu, 25 Feb 2021 14:55:27 -0300</pubDate>
+      
+      <guid>http://example.org/downloads/my-first-post/</guid>
+      <description>Segue abaixo um lista com os links dos repositórios das aplicações desenvolvidas pelo time de desenvolvimento da LED Internet.
+Bla:
+ledinternet/backup-system</description>
+    </item>
+    
+  </channel>
+</rss>

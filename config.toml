@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "pt-br"
+title = "Desenvolvimento LED Internet"
+theme = "hugo-theme-learn"
